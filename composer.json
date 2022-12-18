@@ -1,0 +1,20 @@
+{
+  "name": "wtframework/framework",
+  "description": "A PHP framework",
+  "license": "proprietary",
+  "require": {
+    "php": "^8.2",
+    "wtframework/cache": "dev-main",
+    "wtframework/config": "dev-main",
+    "wtframework/controller": "dev-main",
+    "wtframework/database": "dev-main",
+    "wtframework/enums": "dev-main",
+    "wtframework/env": "dev-main",
+    "wtframework/filesystem": "dev-main",
+    "wtframework/log": "dev-main",
+    "wtframework/model": "dev-main",
+    "wtframework/routing": "dev-main",
+    "wtframework/security": "dev-main",
+    "wtframework/validation": "dev-main"
+  }
+}
