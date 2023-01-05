@@ -5,6 +5,7 @@
   "require": {
     "php": "^8.2",
     "wtframework/cache": "dev-main",
+    "wtframework/collection": "dev-main",
     "wtframework/config": "dev-main",
     "wtframework/controller": "dev-main",
     "wtframework/database": "dev-main",
