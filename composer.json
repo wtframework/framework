@@ -13,7 +13,7 @@
     "wtframework/env": "dev-main",
     "wtframework/filesystem": "dev-main",
     "wtframework/log": "dev-main",
-    "wtframework/model": "dev-main",
+    "wtframework/orm": "dev-main",
     "wtframework/routing": "dev-main",
     "wtframework/security": "dev-main",
     "wtframework/validation": "dev-main"
